@@ -7,8 +7,6 @@ Our event finder app helps users to find events happening in their area or in a 
 
 # Team App Innovators:
 
-Fenil Bhimani - (CWID) : 885332437 - fenilbhimani@csu.fullerton.edu
-
 Yash Gandhi - (CWID): 885196667 - Yashgandhi09@csu.fullerton.edu
 
 Heet Savla - (CWID) : 885872572 - heetsavla@csu.fullerton.edu
@@ -17,3 +15,4 @@ Pavan Kumar Mathari - (CWID): 885186924 - pavan.mathari@csu.fullerton.edu
 
 Pradhatri Vemula - (CWID): 885211540 - pradhatrivemula@csu.fullerton.edu
 
+Akhil Chirra - (CWID): 885185959 - akhilchirra@csu.fullerton.edu
